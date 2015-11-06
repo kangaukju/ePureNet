@@ -1,0 +1,6 @@
+ID = 1
+DEV=eth0
+MASTER=211.221.225.34
+PASSWORD=1234
+IP=html/block_page.html
+URL_PATH=html/block_page.html

@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>Untitled Document</title>
+	</head>
+	<body background='http://211.221.225.32/bg.jpg' topmargin=0>
+		<table width=100% border=0 align=center>
+			<tr>
+				<td height=180 valign=top></td>
+			</tr>
+			<tr>
+				<td align=center><img src='http://211.221.225.32/board.jpg' width=592 height=346></td>
+			</tr>
+		</table>
+	</body>
+</html>
